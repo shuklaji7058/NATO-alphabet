@@ -1,6 +1,6 @@
-#NATO Phonetic Alphabet Translator:
+#NATO Phonetic Alphabet Translator using exception handeling:
 
-This repository contains a simple Python script that translates a given word into the NATO phonetic alphabet. It uses a CSV file with the phonetic alphabet codes to perform the translation.
+This repository contains a simple Python script that translates a given word into the NATO phonetic alphabet. It uses a CSV file with the phonetic alphabet codes to perform the translation.I also uses exception handeling.
 
 Files:
 > main.py: The main Python script that reads the CSV file, creates a dictionary for the phonetic alphabet, and translates user input into phonetic code words.
